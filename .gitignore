@@ -1,0 +1,9 @@
+
+*.md
+*.db
+*.json
+*.log
+hello/project/project/target/streams/_global/_global/csrLogger/_global/streams/out
+*.properties
+*.sbt
+*.class

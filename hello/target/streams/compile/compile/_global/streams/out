@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/khim/Documents/GitHub/Scala-Fundamentals/hello/MyMain.scala:2:21: not found: type Arrar[0m
+[0m[[0m[31merror[0m] [0m[0m  def main(params : Arrar[String]) = {[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
